@@ -11,7 +11,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class MainActivity extends AppCompatActivity
 // Implement here the MainActivity with OnMapReadyCallback
 {
-  // Add here the TomtomMap member
+  // Add here the TomtomMap member 
 
   @Override
   protected void onCreate(Bundle savedInstanceState) {
